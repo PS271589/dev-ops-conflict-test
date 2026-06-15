@@ -1,0 +1,9 @@
+Wat ik heb geleerd
+Tijdens de afgelopen drie workshops heb ik een goed beeld gekregen van hoe Git werkt en waarom het zo belangrijk is binnen softwareontwikkeling. Ik heb geleerd hoe je een nieuwe repository aanmaakt en hoe je bestanden toevoegt aan de staging area met git add. Ook begrijp ik nu hoe commits werken en waarom het belangrijk is om duidelijke commit‑berichten te schrijven, zodat je later kunt terugzien wat er precies is veranderd.
+
+Daarnaast heb ik geleerd hoe je wijzigingen naar GitHub kunt pushen en hoe je een project kunt clonen vanaf een externe repository. Het werken met branches vond ik een van de meest nuttige onderdelen: ik snap nu hoe je een aparte branch maakt om nieuwe functionaliteit te ontwikkelen zonder de main‑branch te verstoren. Ook heb ik geoefend met het mergen van branches en het oplossen van eenvoudige merge‑conflicten.
+
+Tot slot heb ik geleerd hoe Git en GitHub samenwerken en hoe je via GitHub een overzicht hebt van alle commits, branches en pull requests.
+
+Wat ik nog wil leren
+Hoewel ik de basis nu goed begrijp, zijn er nog een aantal dingen die ik verder wil uitdiepen. Ik wil bijvoorbeeld beter leren hoe je grotere merge‑conflicten oplost en hoe je Git efficiënter kunt gebruiken in combinatie met Visual Studio Code. Ook wil ik meer leren over pull requests, code reviews en hoe je met meerdere mensen tegelijk aan één project werkt
