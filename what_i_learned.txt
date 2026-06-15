@@ -1,0 +1,19 @@
+Tijdens de afgelopen 3 workshops heb ik geleerd hoe Git werkt met repositories, branches, commits en pushes. Ik snap nu beter waarom version control handig is bij samenwerken en hoe je veilig wijzigingen kunt maken zonder de main branch kapot te maken.
+
+Ik heb geleerd hoe ik:
+- een repository clone
+- bestanden toevoeg met git add
+- commits maak met git commit
+- wijzigingen upload met git push
+- branches gebruik en wissel met git checkout
+
+Ook begrijp ik nu beter hoe belangrijk duidelijke commit messages zijn en waarom kleine commits handiger zijn dan grote veranderingen tegelijk.
+
+Wat ik nog meer zou willen leren:
+- hoe teams Git gebruiken in grote projecten
+- wanneer je rebase gebruikt in plaats van merge
+- hoe GitHub Actions werken
+- betere workflows voor samenwerken
+- hoe je fouten of verkeerde commits veilig terugdraait
+
+Ik merk dat ik al veel zelfstandiger kan werken met Git.
